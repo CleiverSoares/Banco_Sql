@@ -1,3 +1,2 @@
 # Individual_banco
-trabalho individual no Dbeaver.
-Usando alguns selects simples.
+Usando alguns selects simples no Dbeaver.
